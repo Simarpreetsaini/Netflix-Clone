@@ -30,7 +30,7 @@ Responsive Design – Mobile-first implementation using Flexbox & media queries
 
 <img width="1855" height="852" alt="123" src="https://github.com/user-attachments/assets/33aa5c63-2911-47e5-a8fa-921fa521b182" />
 <img width="1867" height="517" alt="124" src="https://github.com/user-attachments/assets/14f2b676-f947-40da-8a79-86a7335bd71e" />
-<img width="592" height="778" alt="125" src="https://github.com/user-attachments/assets/a733b061-ecd6-4136-afe2-cabecb2919b0" />
+
 
 
 
